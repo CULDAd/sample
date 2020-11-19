@@ -1,57 +1,56 @@
-[   
+[
    {
-      "productId": "PKT-42061",
-      "name": "Best of Vinexus 2017 Rotwein (6er-Paket)",
-      "url": "https://www.vinexus.de/best-of-vinexus-2017-rotwein-6er-paket.html?_sgm_campaign=scn_61868394b28e4000&_sgm_source=PKT-42061&_sgm_action=click",
-      "image": "https://www.wine-logistix.de/magento_pic/efulfillment/PKT-42061_2_.jpg",
-      "imageS": "https://www.vinexus.de/media/image/1c/fc/8e/PKT-420615a507118ac631_200x200.jpg",
-      "price": 49.3,
-      "priceText": "€49,30",
-      "oldPrice": 58,
-      "oldPriceText": "€58,00",
-      "category": 
-      [
-         "Wein > Art > Pakete > Art > Aktionspakete",
-         "Sale > Kategorien im Sale > Pakete",
-         "Wein > Art > Pakete",
-         "Wein > Art > Pakete > Art > Rotwein Pakete"
-      ],
-      "categories": 
-      [
-         "Wein",
-         "Art",
-         "Pakete",
-         "Art",
-         "Aktionspakete",
-         "Sale",
-         "Kategorien im Sale",
-         "Rotwein Pakete"
-      ],
-      "lastUpdateTime": 1518099000473,
-      "inStock": true,
-      "insertTime": 1514899645359,
-      "publishTime": 1514899645359,
-      "brand": "Unsere Selektion",
-      "params": 
-      {
-         "weight": "6 kg",
-         "basePrice": "4.5 Liter (10,96 € * / 1 Liter)",
-         "likeCount": "2",
-         "manLogo": "https://www.vinexus.de/media/image/41/42/bd/unsere-selektion-logo.gif",
-         "taxText": "inkl. MwSt. zzgl. Versandkosten",
-         "stockText": "Auf Lager. Lieferzeit 1-3 Werktage",
-         "isNew": "",
-         "land": "",
-         "region": "",
-         "art": "",
-         "stars": "",
-         "tastes": "",
-         "isAb": "",
-         "rebsorte": ""
-      },
-      "language": "DE",
-      "currency": ""
-   },   
+      "product": {
+         "productId": "PKT-42061",
+         "name": "Best of Vinexus 2017 Rotwein (6er-Paket)",
+         "url": "https://www.vinexus.de/best-of-vinexus-2017-rotwein-6er-paket.html?_sgm_campaign=scn_61868394b28e4000&_sgm_source=PKT-42061&_sgm_action=click",
+         "image": "https://www.wine-logistix.de/magento_pic/efulfillment/PKT-42061_2_.jpg",
+         "imageS": "https://www.vinexus.de/media/image/1c/fc/8e/PKT-420615a507118ac631_200x200.jpg",
+         "price": 49.3,
+         "priceText": "€49,30",
+         "oldPrice": 58,
+         "oldPriceText": "€58,00",
+         "category": [
+            "Wein > Art > Pakete > Art > Aktionspakete",
+            "Sale > Kategorien im Sale > Pakete",
+            "Wein > Art > Pakete",
+            "Wein > Art > Pakete > Art > Rotwein Pakete"
+         ],
+         "categories": [
+            "Wein",
+            "Art",
+            "Pakete",
+            "Art",
+            "Aktionspakete",
+            "Sale",
+            "Kategorien im Sale",
+            "Rotwein Pakete"
+         ],
+         "lastUpdateTime": 1518099000473,
+         "inStock": true,
+         "insertTime": 1514899645359,
+         "publishTime": 1514899645359,
+         "brand": "Unsere Selektion",
+         "params": {
+            "weight": "6 kg",
+            "basePrice": "4.5 Liter (10,96 € * / 1 Liter)",
+            "likeCount": "2",
+            "manLogo": "https://www.vinexus.de/media/image/41/42/bd/unsere-selektion-logo.gif",
+            "taxText": "inkl. MwSt. zzgl. Versandkosten",
+            "stockText": "Auf Lager. Lieferzeit 1-3 Werktage",
+            "isNew": "",
+            "land": "",
+            "region": "",
+            "art": "",
+            "stars": "",
+            "tastes": "",
+            "isAb": "",
+            "rebsorte": ""
+         },
+         "language": "DE",
+         "currency": ""
+      }
+   },
    {
       "productId": "FT-SW-0344-NV",
       "name": "Veuve Clicquot Ponsardin Brut Magnum (1,5L)",
@@ -61,12 +60,10 @@
       "price": 107,
       "priceText": "€107,00",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Champagner & Sekt > Art > Champagner"
       ],
-      "categories": 
-      [
+      "categories": [
          "Champagner & Sekt",
          "Art",
          "Champagner"
@@ -76,8 +73,7 @@
       "insertTime": 1511520818423,
       "publishTime": 1511520818423,
       "brand": "Veuve Clicquot",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "1.5 Liter (71,33 € * / 1 Liter)",
          "likeCount": "",
@@ -95,7 +91,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "PKT-2821",
       "name": "Weinregion Baden - erstklassige Weingüter (6er-Paket)",
@@ -106,13 +102,11 @@
       "priceText": "€66,78",
       "oldPrice": 74.2,
       "oldPriceText": "€74,20",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Pakete > Art > Genießer-Pakete",
          "Wein > Art > Pakete"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Pakete",
@@ -123,8 +117,7 @@
       "insertTime": 1517390747188,
       "publishTime": 1517390747188,
       "brand": "Unsere Selektion",
-      "params": 
-      {
+      "params": {
          "weight": "6 kg",
          "basePrice": "4.5 Liter (14,84 € * / 1 Liter)",
          "likeCount": "",
@@ -142,7 +135,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "PKT-5109",
       "name": "5 Sterne Platter 2018 - Ausgezeichnete Weine aus Südafrika (6er-Paket)",
@@ -153,14 +146,12 @@
       "priceText": "€107,64",
       "oldPrice": 119.6,
       "oldPriceText": "€119,60",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Pakete > Art > Rotwein Pakete",
          "Wein > Art > Pakete",
          "Sale > Kategorien im Sale > Pakete"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Pakete",
@@ -174,8 +165,7 @@
       "insertTime": 1512503620976,
       "publishTime": 1512503620976,
       "brand": "Unsere Selektion",
-      "params": 
-      {
+      "params": {
          "weight": "6 kg",
          "basePrice": "4.5 Liter (23,92 € * / 1 Liter)",
          "likeCount": "",
@@ -193,7 +183,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "PKT-5641",
       "name": "Pinotage aus Südafrika (6er-Paket)",
@@ -204,15 +194,13 @@
       "priceText": "€46,20",
       "oldPrice": 54.35,
       "oldPriceText": "€54,35",
-      "category": 
-      [
+      "category": [
          "Wein",
          "Wein > Art > Pakete",
          "Wein > Art > Pakete > Art > Gemischte Pakete",
          "Sale > Kategorien im Sale > Pakete"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Pakete",
@@ -225,8 +213,7 @@
       "insertTime": 1517285302769,
       "publishTime": 1517285302769,
       "brand": "Unsere Selektion",
-      "params": 
-      {
+      "params": {
          "weight": "6 kg",
          "basePrice": "4.5 Liter (10,27 € * / 1 Liter)",
          "likeCount": "",
@@ -244,7 +231,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "PKT-456",
       "name": "Bouchard Finlayson - südafrikanische Eleganz in Weiß (6er-Paket)",
@@ -255,13 +242,11 @@
       "priceText": "€94,18",
       "oldPrice": 110.8,
       "oldPriceText": "€110,80",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Pakete > Art > Südafrika",
          "Wein > Art > Pakete"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Pakete",
@@ -273,8 +258,7 @@
       "insertTime": 1511464668510,
       "publishTime": 1511464668510,
       "brand": "Bouchard Finlayson",
-      "params": 
-      {
+      "params": {
          "weight": "6 kg",
          "basePrice": "4.5 Liter (20,93 € * / 1 Liter)",
          "likeCount": "",
@@ -292,7 +276,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "WK-ZI-0010-16",
       "name": "Casa Vinicola Minini Primitivo Puglia IGT Piane del Levante 2016",
@@ -302,14 +286,12 @@
       "price": 6.25,
       "priceText": "€6,25",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Wein > Land > Italien",
          "Wein > Rebsorte > Zinfandel / Primitivo"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -323,8 +305,7 @@
       "insertTime": 1511396237710,
       "publishTime": 1511396237710,
       "brand": "Casa Vinicola Minini",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (8,33 € * / 1 Liter)",
          "likeCount": "",
@@ -342,7 +323,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "IT-LG-0006-16",
       "name": "Peter Zemmer Raut Lagrein DOC 2016",
@@ -353,12 +334,10 @@
       "priceText": "€12,25",
       "oldPrice": 13.99,
       "oldPriceText": "€13,99",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine"
@@ -368,8 +347,7 @@
       "insertTime": 1511424119838,
       "publishTime": 1511424119838,
       "brand": "Peter Zemmer",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (16,33 € * / 1 Liter)",
          "likeCount": "",
@@ -387,7 +365,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "IT-GW-0009-16",
       "name": "Peter Zemmer Gewürztraminer DOC 2016",
@@ -398,12 +376,10 @@
       "priceText": "€13,20",
       "oldPrice": 13.99,
       "oldPriceText": "€13,99",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Weißweine"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Weißweine"
@@ -413,8 +389,7 @@
       "insertTime": 1511424906451,
       "publishTime": 1511424906451,
       "brand": "Peter Zemmer",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (17,60 € * / 1 Liter)",
          "likeCount": "",
@@ -432,7 +407,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "KK-SW-0442-NV",
       "name": "Du Toitskloof Cape Secco Rosé",
@@ -442,14 +417,12 @@
       "price": 5.8,
       "priceText": "€5,80",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Champagner & Sekt > Art > Neue Welt Sekt",
          "Champagner & Sekt > Land > Südafrika",
          "Champagner & Sekt"
       ],
-      "categories": 
-      [
+      "categories": [
          "Champagner & Sekt",
          "Art",
          "Neue Welt Sekt",
@@ -461,8 +434,7 @@
       "insertTime": 1511366679567,
       "publishTime": 1511366679567,
       "brand": "Du Toitskloof",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (7,73 € * / 1 Liter)",
          "likeCount": "2",
@@ -480,7 +452,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "PKT-993",
       "name": "Doolhof - Weine aus dem Tal des Labyrinths (6er-Paket)",
@@ -491,13 +463,11 @@
       "priceText": "€73,30",
       "oldPrice": 91.62,
       "oldPriceText": "€91,62",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Pakete > Art > Südafrika",
          "Wein > Art > Pakete"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Pakete",
@@ -509,8 +479,7 @@
       "insertTime": 1511519979996,
       "publishTime": 1511519979996,
       "brand": "Doolhof",
-      "params": 
-      {
+      "params": {
          "weight": "6 kg",
          "basePrice": "4.5 Liter (16,29 € * / 1 Liter)",
          "likeCount": "",
@@ -528,7 +497,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "KK-SW-0439-NV",
       "name": "Du Toitskloof Cape Secco Blanc",
@@ -538,14 +507,12 @@
       "price": 5.8,
       "priceText": "€5,80",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Champagner & Sekt > Art > Neue Welt Sekt",
          "Champagner & Sekt > Land > Südafrika",
          "Champagner & Sekt > Art > Sekt"
       ],
-      "categories": 
-      [
+      "categories": [
          "Champagner & Sekt",
          "Art",
          "Neue Welt Sekt",
@@ -558,8 +525,7 @@
       "insertTime": 1511417235938,
       "publishTime": 1511417235938,
       "brand": "Du Toitskloof",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (7,73 € * / 1 Liter)",
          "likeCount": "1",
@@ -577,7 +543,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "ZA-SW-0001-NV",
       "name": "Pongrácz Méthode Cap Classique Rosé",
@@ -587,14 +553,12 @@
       "price": 17.86,
       "priceText": "€17,86",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Champagner & Sekt > Art > Methode Traditionelle",
          "Champagner & Sekt > Land > Südafrika",
          "Champagner & Sekt"
       ],
-      "categories": 
-      [
+      "categories": [
          "Champagner & Sekt",
          "Art",
          "Methode Traditionelle",
@@ -606,8 +570,7 @@
       "insertTime": 1511383537511,
       "publishTime": 1511383537511,
       "brand": "Pongrácz",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (23,81 € * / 1 Liter)",
          "likeCount": "1",
@@ -625,7 +588,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "IT-ZI-0007-16",
       "name": "Teanum Òtre Primitivo 2016",
@@ -635,8 +598,7 @@
       "price": 9.9,
       "priceText": "€9,90",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Wein",
          "Wein > Land > Italien",
@@ -644,8 +606,7 @@
          "Selektionen > Empfehlungen > Bestseller",
          "Selektionen > Geschmack > Trocken"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -664,8 +625,7 @@
       "insertTime": 1511374680073,
       "publishTime": 1511374680073,
       "brand": "Cantine Teanum",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (13,20 € * / 1 Liter)",
          "likeCount": "6",
@@ -683,7 +643,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "FT-SW-0474-NV",
       "name": "McGuigan Black Label Sparkling Shiraz",
@@ -693,14 +653,12 @@
       "price": 11.95,
       "priceText": "€11,95",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Champagner & Sekt > Art > Sparkling Shiraz",
          "Champagner & Sekt > Land > Australien",
          "Champagner & Sekt"
       ],
-      "categories": 
-      [
+      "categories": [
          "Champagner & Sekt",
          "Art",
          "Sparkling Shiraz",
@@ -712,8 +670,7 @@
       "insertTime": 1511439571665,
       "publishTime": 1511439571665,
       "brand": "McGuigan",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (15,93 € * / 1 Liter)",
          "likeCount": "33",
@@ -731,7 +688,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "MA-SB-0091-16",
       "name": "Marisco The Kings Favour Sauvignon Blanc 2016",
@@ -742,14 +699,12 @@
       "priceText": "€14,36",
       "oldPrice": 16.9,
       "oldPriceText": "€16,90",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Weißweine",
          "Wein > Land > Neuseeland > Marlborough",
          "Wein > Land > Neuseeland"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Weißweine",
@@ -762,8 +717,7 @@
       "insertTime": 1511430448179,
       "publishTime": 1511430448179,
       "brand": "Marisco",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (19,15 € * / 1 Liter)",
          "likeCount": "3",
@@ -781,7 +735,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "IT-ZI-0056-16",
       "name": "Doppio Passo Primitivo Salento IGT 2016",
@@ -792,8 +746,7 @@
       "priceText": "€7,90",
       "oldPrice": 8.9,
       "oldPriceText": "€8,90",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Sale",
          "Wein",
@@ -801,8 +754,7 @@
          "Wein > Land > Italien",
          "Wein > Rebsorte > Zinfandel / Primitivo"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -820,8 +772,7 @@
       "insertTime": 1511372427416,
       "publishTime": 1511372427416,
       "brand": "Doppio Passo",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (10,53 € * / 1 Liter)",
          "likeCount": "8",
@@ -839,7 +790,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "FR-GR-0016-NV",
       "name": "Château de Saint Cosme Little James Basket Press rouge",
@@ -849,16 +800,14 @@
       "price": 7.95,
       "priceText": "€7,95",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Selektionen > Weinbewerter > Robert Parker",
          "Wein > Art > Rotweine",
          "Wein",
          "Selektionen > Empfehlungen > Best Bewertet",
          "Wein > Land > Frankreich"
       ],
-      "categories": 
-      [
+      "categories": [
          "Selektionen",
          "Weinbewerter",
          "Robert Parker",
@@ -875,8 +824,7 @@
       "insertTime": 1511377004115,
       "publishTime": 1511377004115,
       "brand": "Château de Saint Cosme",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (10,60 € * / 1 Liter)",
          "likeCount": "20",
@@ -894,7 +842,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "ZA-CH-0051-16",
       "name": "Louisvale Chardonnay unwooded 2016",
@@ -904,13 +852,11 @@
       "price": 8.9,
       "priceText": "€8,90",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Weißweine",
          "Wein > Land > Südafrika"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Weißweine",
@@ -922,8 +868,7 @@
       "insertTime": 1511378364753,
       "publishTime": 1511378364753,
       "brand": "Louisvale Wines",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (11,87 € * / 1 Liter)",
          "likeCount": "",
@@ -941,7 +886,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "DE-WB-0015-16",
       "name": "Friedrich Altenkirch Boogie 2016",
@@ -951,14 +896,12 @@
       "price": 6.95,
       "priceText": "€6,95",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Weißweine",
          "Wein > Land > Deutschland > Rheingau",
          "Wein > Land > Deutschland"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Weißweine",
@@ -971,8 +914,7 @@
       "insertTime": 1511428313029,
       "publishTime": 1511428313029,
       "brand": "Altenkirch",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (9,27 € * / 1 Liter)",
          "likeCount": "3",
@@ -990,7 +932,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "PKT-155",
       "name": "Allesverloren Tinta Barocca (5+1-Paket)",
@@ -1001,14 +943,12 @@
       "priceText": "€58,75",
       "oldPrice": 70.5,
       "oldPriceText": "€70,50",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Pakete > Art > Südafrika",
          "Wein > Art > Pakete",
          "Sale > Kategorien im Sale > Pakete"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Pakete",
@@ -1022,8 +962,7 @@
       "insertTime": 1511369434293,
       "publishTime": 1511369434293,
       "brand": "Allesverloren Estate",
-      "params": 
-      {
+      "params": {
          "weight": "6 kg",
          "basePrice": "4.5 Liter (13,06 € * / 1 Liter)",
          "likeCount": "",
@@ -1041,7 +980,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "EX-CS-0002-12",
       "name": "Excelsior Evanthius Cabernet Sauvignon Reserve 2012",
@@ -1051,16 +990,14 @@
       "price": 12.5,
       "priceText": "€12,50",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Wein > Land > Südafrika",
          "Wein",
          "Wein > Rebsorte > Cabernet Sauvignon",
          "Wein > Land > Südafrika > Robertson"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -1075,8 +1012,7 @@
       "insertTime": 1511451857924,
       "publishTime": 1511451857924,
       "brand": "Excelsior Estate",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (16,67 € * / 1 Liter)",
          "likeCount": "9",
@@ -1094,7 +1030,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "FT-SW-0574-NV",
       "name": "Juliusspital Echter Secco Pink",
@@ -1104,13 +1040,11 @@
       "price": 8.95,
       "priceText": "€8,95",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Champagner & Sekt > Art > Sekt Deutschland",
          "Champagner & Sekt > Land > Deutschland"
       ],
-      "categories": 
-      [
+      "categories": [
          "Champagner & Sekt",
          "Art",
          "Sekt Deutschland",
@@ -1122,8 +1056,7 @@
       "insertTime": 1511384513683,
       "publishTime": 1511384513683,
       "brand": "Juliusspital",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (11,93 € * / 1 Liter)",
          "likeCount": "",
@@ -1141,7 +1074,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "ZA-PI-0036-15",
       "name": "Raka Pinotage 2015",
@@ -1151,14 +1084,12 @@
       "price": 12.95,
       "priceText": "€12,95",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Wein > Rebsorte > Pinotage",
          "Wein > Land > Südafrika > Walker Bay"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -1173,8 +1104,7 @@
       "insertTime": 1511520762995,
       "publishTime": 1511520762995,
       "brand": "Raka Wines",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (17,27 € * / 1 Liter)",
          "likeCount": "",
@@ -1192,7 +1122,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "MV-SW-0531-NV",
       "name": "Kirsten Riesling Brut",
@@ -1202,13 +1132,11 @@
       "price": 13.95,
       "priceText": "€13,95",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Champagner & Sekt > Art > Sekt Deutschland",
          "Champagner & Sekt > Land > Deutschland"
       ],
-      "categories": 
-      [
+      "categories": [
          "Champagner & Sekt",
          "Art",
          "Sekt Deutschland",
@@ -1220,8 +1148,7 @@
       "insertTime": 1511375637507,
       "publishTime": 1511375637507,
       "brand": "Kirsten",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (18,60 € * / 1 Liter)",
          "likeCount": "1",
@@ -1239,7 +1166,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "AR-BL-0243-16",
       "name": "Callia Magna Malbec 2016",
@@ -1250,13 +1177,11 @@
       "priceText": "€8,95",
       "oldPrice": 9.45,
       "oldPriceText": "€9,45",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Wein > Rebsorte > Malbec"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -1268,8 +1193,7 @@
       "insertTime": 1511523816287,
       "publishTime": 1511523816287,
       "brand": "Bodegas Callia",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (11,93 € * / 1 Liter)",
          "likeCount": "",
@@ -1287,7 +1211,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "WK-SH-0167-16",
       "name": "Penfolds Koonunga Hill Shiraz 2016",
@@ -1297,12 +1221,10 @@
       "price": 12.95,
       "priceText": "€12,95",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine"
@@ -1312,8 +1234,7 @@
       "insertTime": 1513173458657,
       "publishTime": 1513173458657,
       "brand": "Penfolds",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (17,27 € * / 1 Liter)",
          "likeCount": "",
@@ -1331,7 +1252,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "ZA-BL-0341-15",
       "name": "Allesverloren 1704 Red 2015",
@@ -1342,15 +1263,13 @@
       "priceText": "€9,95",
       "oldPrice": 12.95,
       "oldPriceText": "€12,95",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Wein > Land > Südafrika",
          "Sale > Kategorien im Sale > Rotweine",
          "Sale"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -1364,8 +1283,7 @@
       "insertTime": 1511365615016,
       "publishTime": 1511365615016,
       "brand": "Allesverloren Estate",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (13,27 € * / 1 Liter)",
          "likeCount": "4",
@@ -1383,7 +1301,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "SC-CS-0230-14",
       "name": "Rickety Bridge Paulina´s Reserve Cabernet Sauvignon 2014",
@@ -1393,13 +1311,11 @@
       "price": 24.8,
       "priceText": "€24,80",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Rotweine",
          "Wein > Land > Südafrika"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Rotweine",
@@ -1411,8 +1327,7 @@
       "insertTime": 1513947436623,
       "publishTime": 1513947436623,
       "brand": "Rickety Bridge",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (33,07 € * / 1 Liter)",
          "likeCount": "",
@@ -1430,7 +1345,7 @@
       },
       "language": "DE",
       "currency": ""
-   },   
+   },
    {
       "productId": "DE-RI-0153-15",
       "name": "Balthasar Ress 'Von Unserm' Rheingau Riesling trocken 2015",
@@ -1440,12 +1355,10 @@
       "price": 11.2,
       "priceText": "€11,20",
       "oldPriceText": "",
-      "category": 
-      [
+      "category": [
          "Wein > Art > Weißweine"
       ],
-      "categories": 
-      [
+      "categories": [
          "Wein",
          "Art",
          "Weißweine"
@@ -1455,8 +1368,7 @@
       "insertTime": 1511519418140,
       "publishTime": 1511519418140,
       "brand": "Balthasar Ress",
-      "params": 
-      {
+      "params": {
          "weight": "1 kg",
          "basePrice": "0.75 Liter (14,93 € * / 1 Liter)",
          "likeCount": "1",
